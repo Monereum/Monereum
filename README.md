@@ -15,6 +15,22 @@ Key enhancements over go-ethereum:
 * __Higher Performance__ - Quorum offers significantly higher performance than public geth
 
 
+📌 Coin Supply - 298,693,496 MNR
+
+📌 Circulating Supply at Hard Fork - ~ 17,3 Million MNR
+
+📌 Consensus - 3 (Raft CFT, Istanbul pBFT, Clique POA Consensus)
+
+📌 Algorithm - Ethash
+
+📌 Block Time - ~ Every 20 seconds
+
+📌 Block Reward -  Minimum of 6 MNR per block
+
+📌 Block Size - Dynamic
+
+📌 Privacy - Ring signature / stealth addresses
+
 ## See also
 
 * [Quorum](https://github.com/jpmorganchase/quorum): this repository
