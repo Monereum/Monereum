@@ -14,6 +14,7 @@ Key enhancements over go-ethereum:
 * __Peer Permissioning__ - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * __Higher Performance__ - Quorum offers significantly higher performance than public geth
 
+## Specifications
 
 📌 Coin Supply - 298,693,496 MNR
 
