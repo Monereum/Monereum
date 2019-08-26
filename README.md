@@ -68,7 +68,7 @@ Security is part of our commitment to our users. At Quorum we have a close relat
 If you have not received a reply to your email or you have not heard from the security team please contact any team member through quorum slack security channel. **Please note that Quorum slack channels are public discussion forum**. When escalating to this medium, please do not disclose the details of the issue. Simply state that you're trying to reach a member of the security team.
 
 #### Responsible Disclosure Process
-Quorum project uses the following responsible disclosure process:
+Monereum project uses the following responsible disclosure process:
 
 - Once the security report is received it is assigned a primary handler. This person coordinates the fix and release process.
 - The issue is confirmed and a list of affected software is determined.
