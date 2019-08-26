@@ -7,7 +7,7 @@ Monereum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and
 
 Key enhancements over go-ethereum:
 
-* __Privacy__ - Quorum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/jpmorganchase/constellation) and [Tessera](https://github.com/jpmorganchase/tessera)) for directed transfer of private data to network participants
+* __Privacy__ - Monereum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/jpmorganchase/constellation) and [Tessera](https://github.com/jpmorganchase/tessera)) for directed transfer of private data to network participants
 * __Alternative Consensus Mechanisms__ - with no need for POW/POS in a permissioned network, Quorum instead offers multiple consensus mechanisms that are more appropriate for consortium chains:
     * __Raft-based Consensus__ - a consensus model for faster blocktimes, transaction finality, and on-demand block creation
     * __Istanbul BFT__ - a PBFT-inspired consensus algorithm with transaction finality, by AMIS.
