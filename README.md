@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.png" width="200" height="200"/>
 
+Our  team of crypto enthusiasts announced that the Monereum chain will be kept and running after the Monero hard fork scheduled for the 1th of November  2019 at block #1961130.
 
 Monereum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and special consensus mechanisms.
 
