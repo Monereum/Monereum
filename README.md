@@ -14,12 +14,6 @@ Key enhancements over go-ethereum:
 * __Peer Permissioning__ - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * __Higher Performance__ - Quorum offers significantly higher performance than public geth
 
-## Architecture
-
-
-## Official Docker Containers
-The official docker containers can be found under https://hub.docker.com/u/quorumengineering/ 
-
 
 ## See also
 
