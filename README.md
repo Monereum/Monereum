@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.png" width="200" height="200"/>
+# <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.jpg" width="200" height="200"/>
 
 
 Monereum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and special consensus mechanisms.
