@@ -34,8 +34,6 @@ Key enhancements over go-ethereum:
 
 ## See also
 
-* [Quorum](https://github.com/jpmorganchase/quorum): this repository
-* [Quorum Documentation](https://docs.goquorum.com)
 * [quorum-examples](https://github.com/jpmorganchase/quorum-examples): Quorum demonstration examples
 * [Quorum Community Slack Inviter](https://bit.ly/quorum-slack): Quorum Slack community entry point
 * Quorum Transaction Managers
