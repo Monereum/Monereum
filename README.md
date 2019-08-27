@@ -6,7 +6,8 @@ Monereum is an Ethereum-based distributed ledger protocol with transaction/contr
 
 Monereum is based on [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
 
-Site: coming soon
+Web-Site: coming soon
+
 Telegram Channel: https://t.me/Monereum
 
 Telegram Group: https://Monereumgroup
