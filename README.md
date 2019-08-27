@@ -4,7 +4,7 @@ Our  team of crypto enthusiasts announced that the Monereum chain will be kept a
 
 Monereum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and special consensus mechanisms.
 
-Monereum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
+Monereum is based on [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
 
 Key enhancements over go-ethereum:
 
