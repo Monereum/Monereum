@@ -6,6 +6,14 @@ Monereum is an Ethereum-based distributed ledger protocol with transaction/contr
 
 Monereum is based on [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
 
+Site: coming soon
+Telegram Channel: https://t.me/Monereum
+Telegram Group: https://Monereumgroup
+Twitter: https://twitter.com/Monereum
+Reddit: https://www.reddit.com/user/Monereum
+Github: https://github.com/Monereum 
+Airdrop bot: https://t.me/Monereumbot
+
 Key enhancements over go-ethereum:
 
 * __Privacy__ - Monereum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/jpmorganchase/constellation) and [Tessera](https://github.com/jpmorganchase/tessera)) for directed transfer of private data to network participants
