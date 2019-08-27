@@ -8,10 +8,15 @@ Monereum is based on [go-ethereum](https://github.com/ethereum/go-ethereum) and 
 
 Site: coming soon
 Telegram Channel: https://t.me/Monereum
+
 Telegram Group: https://Monereumgroup
+
 Twitter: https://twitter.com/Monereum
+
 Reddit: https://www.reddit.com/user/Monereum
+
 Github: https://github.com/Monereum 
+
 Airdrop bot: https://t.me/Monereumbot
 
 Key enhancements over go-ethereum:
