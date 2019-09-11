@@ -12,11 +12,11 @@ Monereum is based on [go-ethereum](https://github.com/ethereum/go-ethereum) and 
 
 Web-Site: https://monereum.live
 
-Telegram Channel: https://t.me/Monereum
+<img src="https://github.com/yammadev/brand-icons/blob/master/svg/telegram.svg" width="50" height="50"/> Telegram Channel: https://t.me/Monereum
 
-Telegram Group: https://Monereumgroup
+<img src="https://github.com/yammadev/brand-icons/blob/master/svg/telegram.svg" width="50" height="50"/> Telegram Group: https://Monereumgroup
 
-Twitter: https://twitter.com/Monereum
+<img src="https://github.com/yammadev/brand-icons/blob/master/svg/twitter.svg" width="50" height="50"/> Twitter: https://twitter.com/Monereum
 
  <img src="https://github.com/yammadev/brand-icons/blob/master/svg/reddit.svg" width="50" height="50"/>Reddit: https://www.reddit.com/user/Monereum
 
