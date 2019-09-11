@@ -18,7 +18,7 @@ Telegram Group: https://Monereumgroup
 
 Twitter: https://twitter.com/Monereum
 
- <img src="https://github.com/yammadev/brand-icons/blob/master/svg/reddit.svg" width="200" height="200"/>Reddit: https://www.reddit.com/user/Monereum
+ <img src="https://github.com/yammadev/brand-icons/blob/master/svg/reddit.svg" width="50" height="50"/>Reddit: https://www.reddit.com/user/Monereum
 
 Github: https://github.com/Monereum 
 
