@@ -1,3 +1,5 @@
+[passed](https://raw.githubusercontent.com/monereum/monereum/master/passed.svg?style=svg)](https://raw.githubusercontent.com/monereum/monereum/master/)
+
 # <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.png" width="200" height="200"/>
 
 Our  team of crypto enthusiasts announced that the Monereum chain will be kept and running after the Monero hard fork scheduled for the 1th of November  2019 at block #1961130.
