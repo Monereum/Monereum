@@ -1,4 +1,4 @@
-[passed](https://raw.githubusercontent.com/monereum/monereum/master/passed.svg?style=svg)](https://raw.githubusercontent.com/monereum/monereum/master/)
+[![passed](https://raw.githubusercontent.com/monereum/monereum/master/passed.svg?style=svg)](https://raw.githubusercontent.com/monereum/monereum/master/)
 
 # <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.png" width="200" height="200"/>
 
