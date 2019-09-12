@@ -1,6 +1,6 @@
 # Welcome to Monereum Network
 
-<img src="http://monereum.live/css/passed.svg"> <img src="https://github.com/Monereum/Monereum/blob/master/monero/code.svg">
+<img src="http://monereum.live/css/passed.svg"> <img src="https://github.com/Monereum/Monereum/blob/master/monero/code.svg"> <img src="https://github.com/Monereum/Monereum/blob/master/monero/qg.svg">
 
 # <img src="https://raw.githubusercontent.com/monereum/monereum/master/logo.png" width="200" height="200"/>
 
