@@ -84,7 +84,6 @@ The following Quorum-related libraries/applications have been created by Third P
 ## Reporting Security Bugs
 Security is part of our commitment to our users. At Quorum we have a close relationship with the security community, we understand the realm, and encourage security researchers to become part of our mission of building secure reliable software. This section explains how to submit security bugs, and what to expect in return.
 
-If you have not received a reply to your email or you have not heard from the security team please contact any team member through quorum slack security channel. **Please note that Quorum slack channels are public discussion forum**. When escalating to this medium, please do not disclose the details of the issue. Simply state that you're trying to reach a member of the security team.
 
 #### Responsible Disclosure Process
 Monereum project uses the following responsible disclosure process:
