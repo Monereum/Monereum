@@ -1,7 +1,7 @@
-## Quorum Cloud
-> Quorum Cloud **should not be used for production deployments**.  It is intended to be used for experimenting with, and testing, Quorum
+## Monereum Cloud
+> Monereum Cloud **should not be used for production deployments**.  It is intended to be used for experimenting with, and testing, Monereum
 
-Quorum Cloud can be used to bootstrap a Quorum network in the cloud.  The currently supported platforms are AWS and Travis CI.
+Monereum Cloud can be used to bootstrap a Quorum network in the cloud.  The currently supported platforms are AWS and Travis CI.
 
 ### Getting Started
 * [AWS](aws/README.md): Deploy a 7nodes network on AWS
