@@ -26,7 +26,7 @@ Web-Site: https://monereum.live
 
 Key enhancements over go-ethereum:
 
-* __Privacy__ - Monereum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/monereum/constellation) and [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera)) for directed transfer of private data to network participants
+* __Privacy__ - Monereum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation) and [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera)) for directed transfer of private data to network participants
 * __Alternative Consensus Mechanisms__ - with no need for POW/POS in a permissioned network, Quorum instead offers multiple consensus mechanisms that are more appropriate for consortium chains:
     * __Raft-based Consensus__ - a consensus model for faster blocktimes, transaction finality, and on-demand block creation
     * __Istanbul BFT__ - a PBFT-inspired consensus algorithm with transaction finality, by AMIS.
@@ -53,11 +53,10 @@ Key enhancements over go-ethereum:
 
 ## See also
 
-* [quorum-examples](https://github.com/jpmorganchase/quorum-examples): Quorum demonstration examples
-* [Quorum Community Slack Inviter](https://bit.ly/quorum-slack): Quorum Slack community entry point
+* [monereum-examples](https://github.com/jpmorganchase/quorum-examples): Quorum demonstration examples
 * Quorum Transaction Managers
-   * [Constellation](https://github.com/jpmorganchase/constellation): Haskell implementation of peer-to-peer encrypted message exchange for transaction privacy
-   * [Tessera](https://github.com/jpmorganchase/tessera): Java implementation of peer-to-peer encrypted message exchange for transaction privacy
+   * [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation): Haskell implementation of peer-to-peer encrypted message exchange for transaction privacy
+   * [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera): Java implementation of peer-to-peer encrypted message exchange for transaction privacy
 * Quorum supported consensuses
    * [Raft Consensus Documentation](https://docs.goquorum.com/en/latest/Consensus/raft/)
    * [Istanbul BFT Consensus Documentation](https://github.com/ethereum/EIPs/issues/650): [RPC API](https://docs.goquorum.com/en/latest/Consensus/istanbul-rpc-api/) and [technical article](https://medium.com/getamis/istanbul-bft-ibft-c2758b7fe6ff). __Please note__ that updated istanbul-tools is now hosted in [this](https://github.com/jpmorganchase/istanbul-tools/) repository
@@ -65,7 +64,7 @@ Key enhancements over go-ethereum:
 * Zero Knowledge on Quorum
    * [ZSL](https://github.com/jpmorganchase/quorum/wiki/ZSL) wiki page and [documentation](https://github.com/jpmorganchase/zsl-q/blob/master/README.md)
    * [Anonymous Zether](https://github.com/jpmorganchase/anonymous-zether) implementation
-* [quorum-cloud](https://github.com/jpmorganchase/quorum-cloud): Tools to help deploy Quorum network in a cloud provider of choice
+* [monereum-cloud](https://github.com/Monereum/Monereum/tree/master/monereum-cloud): Tools to help deploy Quorum network in a cloud provider of choice
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop): An integrated development environment and SDK for Quorum
 
 ## Third Party Tools/Libraries
