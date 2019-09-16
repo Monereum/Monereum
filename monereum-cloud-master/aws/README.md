@@ -1,6 +1,6 @@
-## Quorum Cloud: AWS
+## Monereum Cloud: AWS
 
-Deploy a Quorum Network in AWS using [Terraform](https://terraform.io).
+Deploy a Monereum Network in AWS using [Terraform](https://terraform.io).
 
 > AWS Fargate is only available in certain regions, see [AWS Region Table](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) for more details.
 
@@ -85,7 +85,7 @@ These resources are exposed to CloudFormation Exports which will be used in subs
 This will read from CloudFormation Exports to generate two files (`terraform.auto.backend_config` and `terraform.auto.tfvars`) that are used in later steps.
 
 ```bash
-cd /path/to/quorum-cloud/aws/templates/_terraform_init
+cd /path/to/monereum-cloud/aws/templates/_terraform_init
 terraform init
 terraform apply -var network_name=dev -var region=us-east-1 -auto-approve
 ```
@@ -97,7 +97,7 @@ If `network_name` is not provided, a random name will be generated.
 ### Step 3: Prepare for deployment
 
 ```bash
-cd /path/to/quorum-cloud/aws/templates/
+cd /path/to/monereum-cloud/aws/templates/
 touch terraform.tfvars
 ```
 
@@ -146,8 +146,8 @@ Terraform will prompt to accept the proposed infrastructure changes.  After the 
 
 An example of the output is:
 ```bash
-Quorum Docker Image         = quorumengineering/quorum:latest
-Privacy Engine Docker Image = quorumengineering/tessera:latest
+Monereum Docker Image         = monereumengineering/monereum:latest
+Privacy Engine Docker Image = monereumengineering/tessera:latest
 Number of Quorum Nodes      = 7
 ECS Task Revision           = 1
 CloudWatch Log Group        = /ecs/quorum/dev
@@ -185,7 +185,7 @@ ssh -t -i <private-key-file> ec2-user@<bastion-DNS/IP> Node1
 
 ### Step 6: Cleaning up
 ```bash
-cd /path/to/quorum-cloud/aws/templates/
+cd /path/to/monereum-cloud/aws/templates/
 terraform destroy
 ```
 
