@@ -67,7 +67,7 @@ Key enhancements over go-ethereum:
 * [monereum-cloud](https://github.com/Monereum/Monereum/tree/master/monereum-cloud): Tools to help deploy Monereum network in a cloud provider of choice
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop): An integrated development environment and SDK for Quorum
 
-## Third Party Tools/Libraries
+## Third Party Tools / Libraries
 
 The following Quorum-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Quorum!
 
