@@ -53,8 +53,8 @@ Key enhancements over go-ethereum:
 
 ## See also
 
-* [monereum-examples](https://github.com/jpmorganchase/quorum-examples): Quorum demonstration examples
-* Quorum Transaction Managers
+* [monereum-examples](https://github.com/jpmorganchase/quorum-examples): Monereum demonstration examples
+* Monereum Transaction Managers
    * [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation): Haskell implementation of peer-to-peer encrypted message exchange for transaction privacy
    * [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera): Java implementation of peer-to-peer encrypted message exchange for transaction privacy
 * Quorum supported consensuses
