@@ -36,7 +36,7 @@ Your environment must be prepared differently depending on the method being used
 3. Download and start the Vagrant instance (note: running `vagrant up` takes approx 5 mins):
 
     ```sh
-    git clone https://github.com/jpmorganchase/quorum-examples
+    git clone https://github.com/monereum/monereum/monereum-examples
     cd quorum-examples
     vagrant up
     vagrant ssh
