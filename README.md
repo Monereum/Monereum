@@ -64,7 +64,7 @@ Key enhancements over go-ethereum:
    * [ZSL](https://github.com/jpmorganchase/quorum/wiki/ZSL) wiki page and [documentation](https://github.com/jpmorganchase/zsl-q/blob/master/README.md)
    * [Anonymous Zether](https://github.com/jpmorganchase/anonymous-zether) implementation
 * [monereum-cloud](https://github.com/Monereum/Monereum/tree/master/monereum-cloud): Tools to help deploy Monereum network in a cloud provider of choice
-* [Cakeshop](https://github.com/jpmorganchase/cakeshop): An integrated development environment and SDK for Quorum
+* [Cakeshop](https://github.com/jpmorganchase/cakeshop): An integrated development environment and SDK for Monereum
 
 ## Third Party Tools / Libraries
 
