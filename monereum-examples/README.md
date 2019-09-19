@@ -1,4 +1,4 @@
-# Quorum Examples
+# Monereum Examples
 
 This repository contains setup examples for Quorum Platform.
 
@@ -8,10 +8,10 @@ Current examples include:
 Additional examples exist highlighting and showcasing the functionality offered by the Quorum platform.  An up-to-date list can be found in the [Quorum Documentation](https://docs.goquorum.com/en/latest/Getting%20Started/Quorum-Examples/) site.
 
 ## Installation
-Clone the [`quorum-examples`](https://github.com/jpmorganchase/quorum-examples.git) repo. 
+Clone the [`monereum-examples`](https://github.com/monereum/monereum-examples.git) repo. 
 
 ```bash
-git clone https://github.com/jpmorganchase/quorum-examples.git
+git clone https://github.com/monereum/monereum-examples.git
 ```
 
 **Important note**: Any account/encryption keys used in the quorum-examples repo are for demonstration and testing purposes only. Before running a real environment, new keys should be generated using Geth's `account` tool, Tessera's `-keygen` option, and Constellation's `--generate-keys` option
@@ -19,7 +19,7 @@ git clone https://github.com/jpmorganchase/quorum-examples.git
 
 ## Prepare your environment
 
-A 7 node Quorum network must be running before the example can be run.  The [`quorum-examples`](https://github.com/jpmorganchase/quorum-examples.git) repo provides the means to create a pre-configured sample network in minutes.  
+A 7 node Quorum network must be running before the example can be run.  The [`monereum-examples`](https://github.com/monereum/monereum-examples.git) repo provides the means to create a pre-configured sample network in minutes.  
 
 There are 3 ways to start the sample network, each method is detailed below:
 
