@@ -117,10 +117,10 @@ issues with the version of curl bundled with Vagrant.
 **Note:** Quorum must be run on Ubuntu-based/macOS machines.  Constellation can only be run on Ubuntu-based machines.  Running the examples therefore requires an Ubuntu-based/macOS machine.  If running the examples using Constellation then an Ubuntu-based machine is required. 
 
 1. Install [Golang](https://golang.org/dl/)
-2. Download and build [Quorum](https://github.com/jpmorganchase/quorum/):
+2. Download and build [Quorum](https://github.com/monereum/monereum/):
    
     ```sh
-    git clone https://github.com/jpmorganchase/quorum
+    git clone https://github.com/monereum/monereum
     cd quorum
     make
     GETHDIR=`pwd`; export PATH=$GETHDIR/build/bin:$PATH
@@ -130,7 +130,7 @@ issues with the version of curl bundled with Vagrant.
 3. Download and build Tessera (see [README](https://github.com/jpmorganchase/tessera) for build options)
    
     ```bash
-    git clone https://github.com/jpmorganchase/tessera.git
+    git clone https://github.com/monereum/monereum/tessera/tessera.git
     cd tessera
     mvn install
     ```
