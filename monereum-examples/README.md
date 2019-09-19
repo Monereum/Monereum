@@ -3,7 +3,7 @@
 This repository contains setup examples for Quorum Platform.
 
 Current examples include:
-* [7nodes](examples/7nodes): Starts up a fully-functioning Quorum environment consisting of 7 independent nodes. From this example one can test consensus, privacy, and all the expected functionality of an Ethereum platform.
+* [7nodes](examples/7nodes): Starts up a fully-functioning Monereum environment consisting of 7 independent nodes. From this example one can test consensus, privacy, and all the expected functionality of an Ethereum platform.
 
 Additional examples exist highlighting and showcasing the functionality offered by the Quorum platform.  An up-to-date list can be found in the [Monereum Documentation](https://docs.goquorum.com/en/latest/Getting%20Started/Quorum-Examples/) site.
 
@@ -19,7 +19,7 @@ git clone https://github.com/monereum/monereum/monereum-examples.git
 
 ## Prepare your environment
 
-A 7 node Quorum network must be running before the example can be run.  The [`monereum-examples`](https://github.com/monereum/monereum-examples.git) repo provides the means to create a pre-configured sample network in minutes.  
+A 7 node Monereum network must be running before the example can be run.  The [`monereum-examples`](https://github.com/monereum/monereum-examples.git) repo provides the means to create a pre-configured sample network in minutes.  
 
 There are 3 ways to start the sample network, each method is detailed below:
 
@@ -37,7 +37,7 @@ Your environment must be prepared differently depending on the method being used
 
     ```sh
     git clone https://github.com/monereum/monereum/monereum-examples
-    cd quorum-examples
+    cd monereum-examples
     vagrant up
     vagrant ssh
     ```
