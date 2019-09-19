@@ -56,7 +56,7 @@ Key enhancements over go-ethereum:
 * Monereum Transaction Managers
    * [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation): Haskell implementation of peer-to-peer encrypted message exchange for transaction privacy
    * [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera): Java implementation of peer-to-peer encrypted message exchange for transaction privacy
-* Quorum supported consensuses
+* Monereum supported consensuses
    * [Raft Consensus Documentation](https://docs.goquorum.com/en/latest/Consensus/raft/)
    * [Istanbul BFT Consensus Documentation](https://github.com/ethereum/EIPs/issues/650): [RPC API](https://docs.goquorum.com/en/latest/Consensus/istanbul-rpc-api/) and [technical article](https://medium.com/getamis/istanbul-bft-ibft-c2758b7fe6ff). __Please note__ that updated istanbul-tools is now hosted in [this](https://github.com/jpmorganchase/istanbul-tools/) repository
    * [Clique POA Consensus Documentation](https://github.com/ethereum/EIPs/issues/225) and a [guide to setup clique json](https://modalduality.org/posts/puppeth/) with [puppeth](https://blog.ethereum.org/2017/04/14/geth-1-6-puppeth-master/)
