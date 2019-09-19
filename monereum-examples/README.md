@@ -5,13 +5,13 @@ This repository contains setup examples for Quorum Platform.
 Current examples include:
 * [7nodes](examples/7nodes): Starts up a fully-functioning Quorum environment consisting of 7 independent nodes. From this example one can test consensus, privacy, and all the expected functionality of an Ethereum platform.
 
-Additional examples exist highlighting and showcasing the functionality offered by the Quorum platform.  An up-to-date list can be found in the [Quorum Documentation](https://docs.goquorum.com/en/latest/Getting%20Started/Quorum-Examples/) site.
+Additional examples exist highlighting and showcasing the functionality offered by the Quorum platform.  An up-to-date list can be found in the [Monereum Documentation](https://docs.goquorum.com/en/latest/Getting%20Started/Quorum-Examples/) site.
 
 ## Installation
-Clone the [`monereum-examples`](https://github.com/monereum/monereum-examples.git) repo. 
+Clone the [`monereum-examples`](https://github.com/monereum/monereum/monereum-examples.git) repo. 
 
 ```bash
-git clone https://github.com/monereum/monereum-examples.git
+git clone https://github.com/monereum/monereum/monereum-examples.git
 ```
 
 **Important note**: Any account/encryption keys used in the quorum-examples repo are for demonstration and testing purposes only. Before running a real environment, new keys should be generated using Geth's `account` tool, Tessera's `-keygen` option, and Constellation's `--generate-keys` option
