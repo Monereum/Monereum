@@ -1,4 +1,4 @@
-# Hacking on Quorum / various notes
+# Hacking on Monereum / various notes
 
 ## How does private state work?
 
