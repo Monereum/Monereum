@@ -75,7 +75,7 @@ issues with the version of curl bundled with Vagrant.
    cd monereum-examples
    docker-compose up -d
    ```
-1. By default, the Quorum network is created with Tessera privacy managers and Istanbul BFT consensus. To use Raft consensus, set the environment variable `QUORUM_CONSENSUS=raft` before running `docker-compose`
+1. By default, the Monereum network is created with Tessera privacy managers and Istanbul BFT consensus. To use Raft consensus, set the environment variable `QUORUM_CONSENSUS=raft` before running `docker-compose`
    ```sh
    QUORUM_CONSENSUS=raft docker-compose up -d
    ```
