@@ -104,7 +104,7 @@ issues with the version of curl bundled with Vagrant.
 1. Docker is frozen
     - Check if your Docker daemon is allocated enough memory (minimum 4G)
 1. Tessera crashes due to missing file/directory
-    - This is due to the location of `quorum-examples` folder is not shared
+    - This is due to the location of `monereum-examples` folder is not shared
     - Please refer to Docker documentation for more details:
         - [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/troubleshoot/#shared-drives)
         - [Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/#file-sharing)
