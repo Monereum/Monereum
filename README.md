@@ -68,7 +68,7 @@ Key enhancements over go-ethereum:
 
 ## Third Party Tools / Libraries
 
-The following Monereum-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Quorum!
+The following Monereum-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Monereum!
 
 * [Monereum Blockchain Explorer](https://github.com/blk-io/epirus-free) - a Blockchain Explorer for Monereum which supports viewing private transactions
 * [Monereum-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Quorum to help populate the genesis file with voters and makers
