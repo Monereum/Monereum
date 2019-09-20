@@ -121,7 +121,7 @@ issues with the version of curl bundled with Vagrant.
    
     ```sh
     git clone https://github.com/monereum/monereum
-    cd quorum
+    cd monereum
     make
     GETHDIR=`pwd`; export PATH=$GETHDIR/build/bin:$PATH
     cd ..
@@ -183,7 +183,7 @@ The sample network can be created to run using Istanbul BFT, Raft or Clique POA 
     ``` 
 
 ## Running the example
-`monereum-examples` includes some simple transaction contracts to demonstrate the privacy features of Quorum.  See the [7nodes Example](examples/7nodes) page for details on how to run them.
+`monereum-examples` includes some simple transaction contracts to demonstrate the privacy features of Monereum.  See the [7nodes Example](examples/7nodes) page for details on how to run them.
 
 ## Variations
 ### Reducing the number of nodes 
