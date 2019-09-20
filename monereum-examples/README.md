@@ -156,7 +156,7 @@ The sample network can be created to run using Istanbul BFT, Raft or Clique POA 
     cd path/to/7nodes
     ./{consensus}-init.sh
     ```
-1. Start the Quorum and privacy manager nodes (Constellation or Tessera):
+1. Start the Monereum and privacy manager nodes (Constellation or Tessera):
     - If running in Vagrant:
         ```sh
         ./{consensus}-start.sh
