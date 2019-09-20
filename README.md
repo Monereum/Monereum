@@ -97,7 +97,7 @@ Monereum project uses the following responsible disclosure process:
 **Note:** This process can take some time. Every effort will be made to handle the security bug in as timely a manner as possible, however it's important that we follow the process described above to ensure that disclosures are handled consistently.  
 
 #### Receiving Security Updates
-The best way to receive security announcements is to subscribe to the Quorum-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
+The best way to receive security announcements is to subscribe to the Monereum-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
 
 Comments on This Policy
 If you have any suggestions to improve this policy, please send an email to support@monereum.com for discussion.
