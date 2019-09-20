@@ -71,7 +71,7 @@ issues with the version of curl bundled with Vagrant.
     - Required Docker Engine 18.02.0+ and Docker Compose 1.21+
 1. Download and run `docker-compose`
    ```sh
-   git clone https://github.com/monereum/monereum/quorum-examples
+   git clone https://github.com/monereum/monereum/monereum-examples
    cd monereum-examples
    docker-compose up -d
    ```
