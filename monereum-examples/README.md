@@ -23,7 +23,7 @@ A 7 node Monereum network must be running before the example can be run.  The [`
 
 There are 3 ways to start the sample network, each method is detailed below:
 
-1. By running a pre-configured Vagrant virtual-machine environment which comes complete with Quorum, Constellation, Tessera and the 7nodes example already installed.  Bash scripts provided in the examples are used to create the sample network: [Running with Vagrant](#running-with-vagrant)
+1. By running a pre-configured Vagrant virtual-machine environment which comes complete with Monereum, Constellation, Tessera and the 7nodes example already installed.  Bash scripts provided in the examples are used to create the sample network: [Running with Vagrant](#running-with-vagrant)
 1. By running [`docker-compose`](https://docs.docker.com/compose/) against a [preconfigured `compose` file](https://github.com/Monereum/Monereum/blob/master/monereum-examples/docker-compose.yml) to create the sample network: [Running with Docker](#running-with-docker)
 1. By installing Quorum and Tessera/Constellation locally and using bash scripts provided in the examples to create the sample network: [Running locally](#running-locally)
 
