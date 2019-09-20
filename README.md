@@ -77,7 +77,7 @@ The following Monereum-related libraries/applications have been created by Third
 * [ERC20 REST service](https://github.com/blk-io/erc20-rest-service) - a Monereum-supported RESTful service for creating and managing ERC-20 tokens
 * [Nethereum Quorum](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET Monereum adapter
 * [web3j-monereum](https://github.com/web3j/quorum) - an extension to the web3j Java library providing support for the Monereum API
-* [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Quorum API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Monereum https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
+* [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Monereum API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Monereum https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
 ## Reporting Security Bugs
 Security is part of our commitment to our users. At Monereum we have a close relationship with the security community, we understand the realm, and encourage security researchers to become part of our mission of building secure reliable software. This section explains how to submit security bugs, and what to expect in return.
