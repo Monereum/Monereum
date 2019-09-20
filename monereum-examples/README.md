@@ -135,9 +135,9 @@ issues with the version of curl bundled with Vagrant.
     mvn install
     ```
     
-4. Download quorum-examples
+4. Download monereum-examples
     ```sh
-    git clone https://github.com/jpmorganchase/quorum-examples
+    git clone https://github.com/monereum/monereum/monereum-examples
     ```
 
 
