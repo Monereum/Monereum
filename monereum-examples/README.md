@@ -114,7 +114,7 @@ issues with the version of curl bundled with Vagrant.
 
 ### Running locally
 
-**Note:** Quorum must be run on Ubuntu-based/macOS machines.  Constellation can only be run on Ubuntu-based machines.  Running the examples therefore requires an Ubuntu-based/macOS machine.  If running the examples using Constellation then an Ubuntu-based machine is required. 
+**Note:** Monereum must be run on Ubuntu-based/macOS machines.  Constellation can only be run on Ubuntu-based machines.  Running the examples therefore requires an Ubuntu-based/macOS machine.  If running the examples using Constellation then an Ubuntu-based machine is required. 
 
 1. Install [Golang](https://golang.org/dl/)
 2. Download and build [Monereum](https://github.com/monereum/monereum/):
