@@ -100,7 +100,7 @@ Monereum project uses the following responsible disclosure process:
 The best way to receive security announcements is to subscribe to the Monereum-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
 
 Comments on This Policy
-If you have any suggestions to improve this policy, please send an email to support@monereum.com for discussion.
+If you have any suggestions to improve this policy, please send an email to support@monereum.live for discussion.
 
 ## License
 
