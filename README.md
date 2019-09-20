@@ -73,7 +73,7 @@ The following Monereum-related libraries/applications have been created by Third
 * [Monereum Blockchain Explorer](https://github.com/blk-io/epirus-free) - a Blockchain Explorer for Monereum which supports viewing private transactions
 * [Monereum-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Monereum to help populate the genesis file with voters and makers
 * [Monereum Maker](https://github.com/synechron-finlabs/quorum-maker/) - a utility to create Monereum nodes
-* [MonereumNetworkManager](https://github.com/ConsenSys/QuorumNetworkManager) - makes creating & managing Quorum networks easy
+* [MonereumNetworkManager](https://github.com/ConsenSys/QuorumNetworkManager) - makes creating & managing Monereum networks easy
 * [ERC20 REST service](https://github.com/blk-io/erc20-rest-service) - a Monereum-supported RESTful service for creating and managing ERC-20 tokens
 * [Nethereum Quorum](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET Monereum adapter
 * [web3j-quorum](https://github.com/web3j/quorum) - an extension to the web3j Java library providing support for the Quorum API
