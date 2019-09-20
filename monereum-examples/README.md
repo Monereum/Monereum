@@ -83,7 +83,7 @@ issues with the version of curl bundled with Vagrant.
 1. Run `docker logs <container-name> -f` to view the logs for a particular container
 1. __Note__: to run the 7nodes demo, use the following snippet to open `geth` Javascript console to a desired node (using container name from `docker ps`) and send a private transaction
    ```sh
-   $ docker exec -it quorum-examples_node1_1 geth attach /qdata/dd/geth.ipc
+   $ docker exec -it monereum-examples_node1_1 geth attach /qdata/dd/geth.ipc
    Welcome to the Geth JavaScript console!
 
    instance: Geth/node1-istanbul/v1.7.2-stable/linux-amd64/go1.9.7
@@ -94,7 +94,7 @@ issues with the version of curl bundled with Vagrant.
 
    > loadScript('/examples/private-contract.js')
    ```
-1. Shutdown Quorum Network
+1. Shutdown Monereum Network
    ```sh
    docker-compose down
    ```
