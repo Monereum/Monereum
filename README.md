@@ -71,7 +71,7 @@ Key enhancements over go-ethereum:
 The following Monereum-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Monereum!
 
 * [Monereum Blockchain Explorer](https://github.com/blk-io/epirus-free) - a Blockchain Explorer for Monereum which supports viewing private transactions
-* [Monereum-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Quorum to help populate the genesis file with voters and makers
+* [Monereum-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Monereum to help populate the genesis file with voters and makers
 * [Monereum Maker](https://github.com/synechron-finlabs/quorum-maker/) - a utility to create Quorum nodes
 * [MonereumNetworkManager](https://github.com/ConsenSys/QuorumNetworkManager) - makes creating & managing Quorum networks easy
 * [ERC20 REST service](https://github.com/blk-io/erc20-rest-service) - a Monereum-supported RESTful service for creating and managing ERC-20 tokens
