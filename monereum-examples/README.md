@@ -151,7 +151,7 @@ All logs and temporary data are written to the `qdata` folder.
 
 The sample network can be created to run using Istanbul BFT, Raft or Clique POA consensus mechanisms.  In the following commands replace `{consensus}` with one of `raft`, `istanbul` or `clique` depending on the consensus mechanism you want to use.
 
-1. Navigate to the 7nodes example directory, configure the Quorum nodes and initialize accounts & keystores:
+1. Navigate to the 7nodes example directory, configure the Monereum nodes and initialize accounts & keystores:
     ```sh
     cd path/to/7nodes
     ./{consensus}-init.sh
