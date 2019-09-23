@@ -48,7 +48,7 @@ Your environment must be prepared differently depending on the method being used
 
 
 #### Troubleshooting Vagrant
-* If you are behind a proxy server, please see https://github.com/jpmorganchase/quorum/issues/23.
+* If you are behind a proxy server, please see manual
 * If you are using macOS and get an error saying that the ubuntu/xenial64 image doesn't
 exist, please run `sudo rm -r /opt/vagrant/embedded/bin/curl`. This is usually due to
 issues with the version of curl bundled with Vagrant.
