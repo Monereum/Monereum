@@ -1,14 +1,14 @@
 
 # Project information
-site_name: Quorum
-site_url: https://docs.goquorum.com/
+site_name: Monereum
+site_url: https://monereum.live
 site_description: A permissioned implementation of Ethereum supporting data privacy
-site_author: Quorum
-copyright: Quorum 2019
+site_author: Monereum
+copyright: Monereum Network 2019
 
 # Repository
 repo_name: quorum
-repo_url: https://github.com/jpmorganchase/quorum
+repo_url: https://github.com/monereum/monereum
 
 nav:
     - Getting Started:
