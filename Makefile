@@ -1,6 +1,6 @@
 # This Makefile is meant to be used by people that do not usually work
 # with Go source code. If you know what GOPATH is then you probably
-# don't need to bother with make.
+# Don't need to bother with make.
 
 .PHONY: geth android ios geth-cross swarm evm all test clean
 .PHONY: geth-linux geth-linux-386 geth-linux-amd64 geth-linux-mips64 geth-linux-mips64le
