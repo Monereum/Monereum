@@ -1,7 +1,7 @@
 # Welcome to Monereum Network
 
 <img src="http://monereum.live/css/passed.svg"> <img src="http://monereum.live/css/code.svg"> <img src="http://monereum.live/css/qg.svg"> <a href="https://twitter.com/intent/user?screen_name=monereum"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/monereum?style=social"></a>
-# <img src="https://github.com/Monereum/Monereum/blob/master/cmd/logo.png" width="200" height="200"/>
+# <p align="center"> <img src="https://github.com/Monereum/Monereum/blob/master/cmd/logo.png" width="200" height="200"/></p>
 
 
 Our  team of crypto enthusiasts announced that the Monereum chain will be kept and running after the Monero hard fork scheduled for the 1th of November  2019 at block #1961130.
