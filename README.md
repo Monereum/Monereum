@@ -53,7 +53,7 @@ Key enhancements over go-ethereum:
 
 ## See also
 
-* [monereum-examples](https://github.com/monereum/monereum/monereum-examples): Monereum demonstration examples
+* [monereum-examples](https://github.com/Monereum/Monereum/tree/master/monereum-examples): Monereum demonstration examples
 * Monereum Transaction Managers
    * [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation): Haskell implementation of peer-to-peer encrypted message exchange for transaction privacy
    * [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera): Java implementation of peer-to-peer encrypted message exchange for transaction privacy
