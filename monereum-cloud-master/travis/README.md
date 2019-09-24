@@ -24,4 +24,4 @@ Replace `<consensus>` with one of the values: `raft`/`istanbul`/`clique`
 ```
 
 ### Example
-This is currently used as part of the Quorum CI process alongside [quorum-acceptance-tests](https://github.com/jpmorganchase/monereum-acceptance-tests).  See [`travis.yml`](https://github.com/monereum/quorum/blob/master/.travis.yml), specifically the script [`build/travis-run-acceptance-tests-linux.sh`](https://github.com/monereum/blob/master/build/travis-run-acceptance-tests-linux.sh).
+This is currently used as part of the Quorum CI process alongside [monereum-acceptance-tests](https://github.com/jpmorganchase/monereum-acceptance-tests).  See [`travis.yml`](https://github.com/monereum/quorum/blob/master/.travis.yml), specifically the script [`build/travis-run-acceptance-tests-linux.sh`](https://github.com/monereum/blob/master/build/travis-run-acceptance-tests-linux.sh).
