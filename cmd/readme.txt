@@ -1,1 +1,0 @@
-monereum cmd
