@@ -29,7 +29,7 @@ Key enhancements over go-ethereum:
 * __Privacy__ - Monereum supports private transactions and private contracts through public/private state separation, and utilises peer-to-peer encrypted message exchanges (see [Constellation](https://github.com/Monereum/Monereum/tree/master/constellation) and [Tessera](https://github.com/Monereum/Monereum/tree/master/tessera)) for directed transfer of private data to network participants
 * __Alternative Consensus Mechanisms__ - with no need for POW/POS in a permissioned network, Monereum instead offers multiple consensus mechanisms that are more appropriate for consortium chains:
     * __Raft-based Consensus__ - a consensus model for faster blocktimes, transaction finality, and on-demand block creation
-    * __Istanbul BFT__ - a PBFT-inspired consensus algorithm with transaction finality, by AMIS.
+    * __Istanbul BFT__ -   a PBFT-inspired consensus algorithm with transaction finality, by AMIS.
 * __Peer Permissioning__ - node/peer permissioning using smart contracts, ensuring only known parties can join the network
 * __Higher Performance__ - Monereum offers significantly higher performance than public geth
 
