@@ -63,7 +63,7 @@ Key enhancements over go-ethereum:
    * [Clique POA Consensus Documentation](https://github.com/ethereum/EIPs/issues/225) and a [guide to setup clique json](https://modalduality.org/posts/puppeth/) with [puppeth](https://blog.ethereum.org/2017/04/14/geth-1-6-puppeth-master/)
 * Zero Knowledge on Monereum
    * [ZSL](https://github.com/jpmorganchase/quorum/wiki/ZSL) wiki page and [documentation](https://github.com/jpmorganchase/zsl-q/blob/master/README.md)
-   * [Anonymous Zether](https://github.com/jpmorganchase/anonymous-zether) implementation
+   * [Anonymous Zether] (https://github.com/jpmorganchase/anonymous-zether) implementation
 * [monereum-cloud](https://github.com/Monereum/Monereum/tree/master/monereum-cloud): Tools to help deploy Monereum network in a cloud provider of choice
 * [Cakeshop](https://github.com/jpmorganchase/cakeshop): An integrated development environment and SDK for Monereum
 
