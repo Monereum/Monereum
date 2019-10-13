@@ -37,7 +37,7 @@ Key enhancements over go-ethereum:
 
 📌 Coin Supply - 298,693,496 MNR
 
-📌 Circulating Supply at Hard Fork - ~ 17,3 Million MNR
+📌 Circulating Supply at HardFork - ~ 17,3 Million MNR
 
 📌 Consensus - 3 (Raft CFT, Istanbul pBFT, Clique POA Consensus)
 
